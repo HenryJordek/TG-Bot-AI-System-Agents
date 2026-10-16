@@ -1,0 +1,8 @@
+aiogram
+aiohttp
+requests
+chromadb
+ddgs
+ollama
+python-dotenv
+aiohttp_socks
